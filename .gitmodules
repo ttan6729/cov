@@ -1,0 +1,3 @@
+[submodule "GDC2"]
+	path = GDC2
+	url = https://github.com/refresh-bio/GDC2
