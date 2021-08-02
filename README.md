@@ -1,5 +1,7 @@
-SARS-CoV-2 genome sequence dataset and information of subset.
+#SARS-CoV-2 genome sequence dataset and information of subset.
 
-To  access the SARS-COV-2 datasets, download and execute run.sh.
+## To access the SARS-COV-2 datasets
+	git clone https://github.com/ttan6729/cov.git
+  sh run.sh   #the sequence set will in foloder d1 and d2
+ 
 
-Note, it is requred c+= 14 for decompression tool GDC2
