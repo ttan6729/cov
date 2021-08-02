@@ -1,0 +1,10 @@
+/mnt/data6t/QsComp/cov/genome_seq/MZ076836.1.fa
+/mnt/data6t/QsComp/cov/genome_seq/OD947747.1.fa
+/mnt/data6t/QsComp/cov/genome_seq/LR878010.1.fa
+/mnt/data6t/QsComp/cov/genome_seq/MW707282.1.fa
+/mnt/data6t/QsComp/cov/genome_seq/MZ140454.1.fa
+/mnt/data6t/QsComp/cov/genome_seq/OD923803.1.fa
+/mnt/data6t/QsComp/cov/genome_seq/MW634323.1.fa
+/mnt/data6t/QsComp/cov/genome_seq/MW812614.1.fa
+/mnt/data6t/QsComp/cov/genome_seq/OA981705.1.fa
+/mnt/data6t/QsComp/cov/genome_seq/FR998216.1.fa

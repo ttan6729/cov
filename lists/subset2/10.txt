@@ -1,0 +1,10 @@
+/mnt/data6t/QsComp/cov/genome_ncbi/MZ013631.1.fa
+/mnt/data6t/QsComp/cov/genome_ncbi/MZ090043.1.fa
+/mnt/data6t/QsComp/cov/genome_ncbi/MZ044605.1.fa
+/mnt/data6t/QsComp/cov/genome_ncbi/MZ054967.1.fa
+/mnt/data6t/QsComp/cov/genome_ncbi/MW733653.1.fa
+/mnt/data6t/QsComp/cov/genome_ncbi/MZ059771.1.fa
+/mnt/data6t/QsComp/cov/genome_ncbi/MZ082217.1.fa
+/mnt/data6t/QsComp/cov/genome_ncbi/MW855698.1.fa
+/mnt/data6t/QsComp/cov/genome_ncbi/MW782751.1.fa
+/mnt/data6t/QsComp/cov/genome_ncbi/MW908226.1.fa
