@@ -1,13 +1,12 @@
 #!/bin/bash
 
-git submodule add GDC2
+git submodule update --init
 cd GDC2/gdc_2/Gdc2
+cp makefile.linux Makefile
+
 make
 cd ../../../
 cp GDC2/gdc_2/Gdc2/gdc2 ./
-cp makefile.linux Makefile
-
-cp ../../GDC2/gdc_2/Gdc2/Makefile GDC2/gdc_2/Gdc2/
 
 make
 
