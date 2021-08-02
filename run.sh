@@ -1,11 +1,15 @@
 #!/bin/bash
 
-git submodule update --init
-cd /mnt/data6t/QsComp/cov/GDC2/gdc_2/Gdc2
+git submodule add GDC2
 cd GDC2/gdc_2/Gdc2
 make
 cd ../../../
 cp GDC2/gdc_2/Gdc2/gdc2 ./
+cp makefile.linux Makefile
+
+cp ../../GDC2/gdc_2/Gdc2/Makefile GDC2/gdc_2/Gdc2/
+
+make
 
 cp gdc2 d1
 cp gdc2 d2
